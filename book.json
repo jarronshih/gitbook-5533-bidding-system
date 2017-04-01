@@ -1,0 +1,9 @@
+{
+    "root": "./src",
+    "title": "5533",
+    "language": "en",
+    "gitbook": ">= 3.0.0",
+    "plugins": ["contractbridge"],
+    "variables":{
+    }
+}
