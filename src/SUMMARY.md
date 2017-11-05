@@ -4,16 +4,17 @@
 --
 
 * General Understandings and Defaults
-  * [General Signal](garage/signal.md)
-  * [General Double](garage/double.md)
+  * [General Signal](general/signal.md)
+  * [General Double](general/double.md)
 
 * Partnership-Bidding Methods
-  * [Forcing 1N](garage/forcing_1nt.md)
-  * [1m-1X; 2N](garage/1m_1X_2N.md)
-  * [Drury](garage/drury.md)
+  * [Forcing 1N](partnership/forcing_1nt.md)
+  * [Bergen Raise](partnership/bergen_raise.md)
+  * [Drury](partnership/drury.md)
+  * [1m-1X; 2N](partnership/1m_1X_2N.md)
 
 * Competitive-Bidding Methods
-  * [Competive Bidding](garage/competive.md)
+  * [Competive Bidding](competive/competive.md)
 
 * Defensive-Bidding Methods
 
