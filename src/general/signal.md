@@ -1,3 +1,4 @@
+# Signal
 
 ## General
 In suit contract, Attitude > Counting > Suit preference.
