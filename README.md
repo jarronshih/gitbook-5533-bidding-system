@@ -5,7 +5,7 @@
 
 ## Framework
 We use `gitbook` as main framework, use `gitbook-plugin-contractbridge` to help format it.
-- [gitbook](https://www.gitbook.com)
+- [gitbook](https://gitbookio.gitbooks.io/documentation/content/index.html)
 - [gitbook-plugin-contractbridge](https://github.com/jarronshih/gitbook-plugin-contractbridge)
 
 
