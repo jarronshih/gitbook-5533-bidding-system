@@ -1,4 +1,5 @@
 # Style
+
 * HCP: Use `~` not `-`. Omit HCP
 * Card: Use `-` not `~`. Suit after the number
 * Order: HCP, Promise with, Promise without, other description.

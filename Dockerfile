@@ -1,8 +1,8 @@
-FROM node:6-slim
+FROM node:6.11.5-slim
 
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends git calibre
-RUN npm install -g gitbook-cli
+RUN npm install -g gitbook-cli && npm cache clean
 
 RUN mkdir -p /gitbook
 RUN mkdir -p /dev
