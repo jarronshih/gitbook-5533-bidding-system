@@ -11,22 +11,29 @@
 # P-1!S
 {% bids %}
 P-1!S
-2!N  := 0~7, puppet to 3!C, one minor weak sign off.
+2!N  := 0~7, puppet to 3!C, one minor weak.
 {% endbids %}
 
 ## 1!S-3!C
 {% bids %}
 1!S-3!C
+3!D  := Ask for shortness.
+3!H  :=
+3!S  := S/O.
 {% endbids %}
 
 ## 1!S-3!D
 {% bids %}
 1!S-3!D
+3!H  := ST.
+3!S  := S/O
+3!N  := S/O
 {% endbids %}
 
 ## 1!S-3!H
 {% bids %}
 1!S-3!H
+3!N  := S/O.
 {% endbids %}
 
 # 1!H
@@ -43,5 +50,5 @@ P-1!S
 {% bids %}
 P - 1!H
 2!S  := 7~9, 4+!H, short somewhere.
-2!N  := 0~7, puppet to 3!C, one minor weak sign off.
+2!N  := 0~7, puppet to 3!C, one minor weak.
 {% endbids %}
