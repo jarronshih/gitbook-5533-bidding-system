@@ -21,7 +21,3 @@
 --
 
 * [Testing](garage/testing.md)
-
---
-
-* [Glossary](GLOSSARY.md)
