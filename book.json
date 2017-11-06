@@ -7,6 +7,7 @@
   "plugins": [
     "-sharing",
     "github",
+    "edit-link",
     "contractbridge@0.2.4"
   ],
   "pluginsConfig": {
@@ -19,6 +20,10 @@
     },
     "github": {
       "url": "https://github.com/jarronshih/gitbook-5533-with-wkc"
+    },
+    "edit-link": {
+      "base": "https://github.com/jarronshih/gitbook-5533-with-wkc/edit/master/src",
+      "label": "Edit This Page"
     }
   }
 }
