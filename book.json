@@ -9,7 +9,7 @@
     "-fontsettings",
     "github",
     "edit-link",
-    "contractbridge@0.2.5"
+    "contractbridge@0.2.6"
   ],
   "pluginsConfig": {
     "theme-default": {
