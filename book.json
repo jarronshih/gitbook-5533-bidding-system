@@ -6,6 +6,7 @@
   "gitbook": ">= 3.2.0",
   "plugins": [
     "-sharing",
+    "-fontsettings",
     "github",
     "edit-link",
     "contractbridge@0.2.4"
@@ -13,10 +14,6 @@
   "pluginsConfig": {
     "theme-default": {
       "showLevel": true
-    },
-    "fontSettings": {
-      "theme": "white",
-      "family": "sans"
     },
     "github": {
       "url": "https://github.com/jarronshih/gitbook-5533-with-wkc"
