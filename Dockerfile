@@ -1,19 +1,16 @@
-FROM node:6.11.5-slim
+FROM node:8.9.1
 
-RUN apt-get update
-RUN apt-get install -y --no-install-recommends git calibre
-RUN npm install -g gitbook-cli && npm cache clean
-
+RUN npm install -g gitbook-cli && npm cache clean --force
 RUN mkdir -p /gitbook
-RUN mkdir -p /dev
 WORKDIR /gitbook
+
 
 RUN gitbook fetch 3.2.2
 ONBUILD RUN gitbook fetch latest
 
 
 COPY . /gitbook
-RUN gitbook install .
+RUN npm update && gitbook install .
 
 EXPOSE 4000
 
