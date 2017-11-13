@@ -10,13 +10,13 @@
 3!S  := 3~7, 4+!S, promise better than one A if vul.
 {% endbids %}
 
-### P-1!S
+### P - 1!S
 {% bids %}
 P - 1!S; ?
 2!N  := 0~7, puppet to 3!C, one minor weak.
 {% endbids %}
 
-### 1!S-3!C
+### 1!S - 3!C
 {% bids %}
 1!S - 3!C; ?
 3!D  := Ask for shortness.
@@ -24,7 +24,7 @@ P - 1!S; ?
 3!S  := S/O.
 {% endbids %}
 
-### 1!S-3!D
+### 1!S - 3!D
 {% bids %}
 1!S - 3!D; ?
 3!H  := ST.
@@ -32,7 +32,7 @@ P - 1!S; ?
 3!N  := S/O
 {% endbids %}
 
-### 1!S-3!H
+### 1!S - 3!H
 {% bids %}
 1!S - 3!H; ?
 3!N  := S/O.

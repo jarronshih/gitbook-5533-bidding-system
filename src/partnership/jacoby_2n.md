@@ -1,9 +1,9 @@
-# Jacoby 2NT
+# Jacoby 2!N
 ## After interrupted
 ### Interrupted by double
 {% bids %}
-1H - 2S; (X)
-p   := Default bid
+1!H - 2!S; (X)
+P   := Default bid
 XX  := !S first round control
 2!N := !S shortness
 3!C := !C shortness
