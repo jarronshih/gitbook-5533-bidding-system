@@ -27,7 +27,7 @@ P - 1!S; ?
 ### 1!S - 3!D
 {% bids %}
 1!S - 3!D; ?
-3!H  := ST.
+3!H  := ST
 3!S  := S/O
 3!N  := S/O
 {% endbids %}
