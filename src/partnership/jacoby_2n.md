@@ -2,9 +2,9 @@
 ## After interrupted
 ### Interrupted by double
 {% bids %}
-1!H - 2!S; (Dbl)
+1!H-2!S; (Dbl)
 P   := Default bid
-XX  := !S first round control
+Rbl := first round control in !S suit, Ace or void.
 2!N := !S shortness
 3!C := !C shortness
 3!D := !D shortness
