@@ -12,7 +12,7 @@ For example: 10~12, 11~13, 12~14, 13~15, etc.
 ## Lionel
 {% bids %}
 (1!N) - ??
-X   := !S + any suit.
+Dbl := !S + any suit.
 2!C := !C + !H, 10+ HCP. (2x=NF, 3x=INV)
 2!D := !D + !H, 10+ HCP. (2x=NF, 3x=INV)
 2M  := 6+M. (2!N=Ogust, raise=constructive)
@@ -25,7 +25,7 @@ After (1!N)-2M-2!N, overcaller should bid 3x with a weak two hand, and jump to g
 ## Astro
 {% bids %}
 (1!N) - ??
-X   := 14+ HCP, partner can pass
+Dbl := 14+ HCP, partner can pass
 2!C := !H + any suit, 10+ HCP
 2!D := !S + any suit, 10+ HCP
 2M  := 6+M

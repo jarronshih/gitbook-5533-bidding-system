@@ -2,7 +2,7 @@
 ## After interrupted
 ### Interrupted by double
 {% bids %}
-1!H - 2!S; (X)
+1!H - 2!S; (Dbl)
 P   := Default bid
 XX  := !S first round control
 2!N := !S shortness
