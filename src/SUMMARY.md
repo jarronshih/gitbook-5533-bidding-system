@@ -13,9 +13,10 @@
 * After 1N
 * After 1M
   * [Forcing 1N](partnership/forcing_1nt.md)
+  * [Jacoby 2NT](partnership/jacoby_2n.md)
   * [Bergen Raise](partnership/bergen_raise.md)
   * [Drury](partnership/drury.md)
-  * [Jacoby 2NT](partnership/jacoby_2n.md)
+
 * After 1m
   * [18~19 Balance](partnership/1m_1X_2N.md)
 

@@ -1,4 +1,4 @@
-# Jacoby 2!N
+# Jacoby 2NT
 ## After interrupted
 ### Interrupted by double
 {% bids %}
