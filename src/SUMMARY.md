@@ -10,6 +10,7 @@
 
 ## Partnership Bidding
 * [Opening Bidding](partnership/opening.md)
+* After 1N
 * After 1M
   * [Forcing 1N](partnership/forcing_1nt.md)
   * [Bergen Raise](partnership/bergen_raise.md)
@@ -27,6 +28,8 @@
 * [Against NT](defensive/vs-nt.md)
 * [Against Preempt](defensive/vs-pre.md)
 * [Michaels Cue-Bid and Unusual No-Trump](defensive/two-suit.md)
+* [Rubens Advance](defensive/rubens-advance.md)
+
 --
 
 ## Others

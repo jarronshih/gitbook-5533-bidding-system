@@ -5,7 +5,6 @@ Lead Low when even, Lead High when odd.
 - **Q**Jx
 - Q**x**x
 
-## Transfer response after all overcalls below or equal 3-level
 
 # Slam
 ## Key card asking
