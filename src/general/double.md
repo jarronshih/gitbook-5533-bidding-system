@@ -1,4 +1,5 @@
 # General Double
+Takeout Double, Negative Double, Responsive Double, Equal Level Conversion Double
 
 ## Common Double
 - Takeout Double to 4!H
