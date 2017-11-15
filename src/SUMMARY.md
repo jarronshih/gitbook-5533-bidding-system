@@ -9,6 +9,7 @@
 
 
 ## Partnership Bidding
+* [Opening Bidding](partnership/opening.md)
 * [Forcing 1N](partnership/forcing_1nt.md)
 * [Bergen Raise](partnership/bergen_raise.md)
 * [Drury](partnership/drury.md)
