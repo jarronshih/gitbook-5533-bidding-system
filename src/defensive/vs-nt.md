@@ -1,32 +1,36 @@
 # Against NT
-Lional against strong NT, Lional if passed hand, Astro against strong NT.
+Lionel against strong NT, Lionel if passed hand, Astro against strong NT.
 
-## Stretagy
+## Strategy
 We define the range of NT include 16 or above as Strong NT.
 For example: 14~16, 15~17, 16~18, etc.
 
 For the range of NT below 15 as Weak NT.
 For example: 10~12, 11~13, 12~14, 13~15, etc.
 
-## Against strong NT
-### Lional
 
-
-## Against weak NT
-When against weak NT, we reserve the option for penalty opponent, major competion and bid a game.
-
-### Astro
+## Lionel
 {% bids %}
-(1!N)-?
+(1!N) - ??
+X   := !S + any suit.
+2!C := !C + !H, 10+ HCP. (2x=NF, 3x=INV)
+2!D := !D + !H, 10+ HCP. (2x=NF, 3x=INV)
+2M  := 6+M. (2!N=Ogust, raise=constructive)
+2!N := Both minors.
+{% endbids %}
+
+After (1!N)-2M-2!N, overcaller should bid 3x with a weak two hand, and jump to game with a full opening hand.
+
+
+## Astro
+{% bids %}
+(1!N) - ??
 X   := 14+ HCP, partner can pass
 2!C := !H + any suit, 10+ HCP
 2!D := !S + any suit, 10+ HCP
 2M  := 6+M
+2!N := Very good hand, two touching suit 6-5, !S!H/!H!D/!D!C/!C!S
 {% endbids %}
 
 
-## Passed Hand
-Use Lional if the player already pass before.
-
 ## VS high-level NT
-[TODO]
