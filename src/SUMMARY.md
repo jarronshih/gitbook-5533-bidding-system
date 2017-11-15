@@ -22,6 +22,8 @@
 
 
 ## Defensive Bidding
+* [Against NT](defensive/vs-nt.md)
+* [Against Preempt](defensive/vs-pre.md)
 
 --
 

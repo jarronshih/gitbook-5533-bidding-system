@@ -20,3 +20,12 @@ If 1!C only promise 3cds or less, we use 2!C as nature and 2D as Michaels.
 
 # Michaels
 Promise intermediate range 10~15 HCP
+
+
+# Slam
+## Key card asking
+- 1430
+- DEPO
+- D0P1
+- void
+    + don't reponse void on partner's suit
