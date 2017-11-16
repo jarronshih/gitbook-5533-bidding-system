@@ -12,13 +12,13 @@ In suit contract, we prefer `Attitude` > `Counting` > `Suit preference`.
 ## Signal Meanings
 ### Partner's lead
 When following to partner's lead: attitude (at trick one, discouraging signal suggests the ability to support the obvious shift), but:
-- (?)suit-preference when a high honor is led and dummy has a singleton and can trump 
+- (?)suit-preference when a high honor is led and dummy has a singleton and can trump
 - (?)count at trick one when not beating dummy's card or finessing and dummy's highest is the jack or lower or the equivalent
 
 ### Declarer's or Dummy's lead
 When following to declarer's or dummy's lead: count (but see Smith, below)
 
-When following suit in trumps: suit-preference
+When following suit in trumps: count
 
 When discarding:
 - from sequences and interior sequences with significant trick-taking ability: highest equal
