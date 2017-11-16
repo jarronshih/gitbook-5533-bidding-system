@@ -3,9 +3,9 @@ FROM node:8.9.1
 RUN mkdir -p /gitbook
 WORKDIR /gitbook
 
-RUN npm install -g gitbook-cli && npm cache clean --force
+RUN npm install -g gitbook-cli && npm cache clear --force
 
-RUN gitbook fetch 3.2.2
+RUN gitbook fetch 3.2.3
 ONBUILD RUN gitbook fetch latest
 
 
