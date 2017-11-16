@@ -9,7 +9,8 @@
     "-fontsettings",
     "github",
     "edit-link",
-    "contractbridge@0.2.6"
+    "expandable-chapters",
+    "contractbridge@0.2.7"
   ],
   "pluginsConfig": {
     "theme-default": {
