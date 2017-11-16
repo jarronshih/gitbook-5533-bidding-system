@@ -10,18 +10,27 @@
 
 
 ## Partnership Bidding
-* [Forcing 1N](partnership/forcing_1nt.md)
-* [Bergen Raise](partnership/bergen_raise.md)
-* [Drury](partnership/drury.md)
-* [Jacoby 2NT](partnership/jacoby_2n.md)
-* [1m-1X; 2N](partnership/1m_1X_2N.md)
+* [Opening Bidding](partnership/opening.md)
+* After 1N
+* After 1M
+  * [Forcing 1N](partnership/forcing_1nt.md)
+  * [Jacoby 2NT](partnership/jacoby_2n.md)
+  * [Bergen Raise](partnership/bergen_raise.md)
+  * [Drury](partnership/drury.md)
+
+* After 1m
+  * [18~19 Balance](partnership/1m_1X_2N.md)
 
 
 ## Competitive Bidding
-* [Competive Bidding](competive/competive.md)
+* [Others](competitive/others.md)
 
 
 ## Defensive Bidding
+* [Against NT](defensive/vs-nt.md)
+* [Against Preempt](defensive/vs-pre.md)
+* [Michaels Cue-Bid and Unusual No-Trump](defensive/two-suit.md)
+* [Rubens Advance](defensive/rubens-advance.md)
 
 --
 
