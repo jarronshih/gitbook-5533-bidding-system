@@ -29,7 +29,6 @@
 
 ## Defensive Bidding
 * [Against NT](defensive/vs-nt.md)
-* [Against Preempt](defensive/vs-pre.md)
 * [Michaels Cue-Bid and Unusual No-Trump](defensive/two-suit.md)
 * [Rubens Advance](defensive/rubens-advance.md)
 
@@ -37,3 +36,14 @@
 
 ## Others
 * [Testing](garage/testing.md)
+* Incomplete
+  * [Against Preempt](defensive/vs-pre.md)
+  * Two-Way Puppet Check Back
+  * Lebensohl
+  * Frivolous Flag and Cue Bid
+  * RKCB
+  * Grand Slam Force
+  * Romex Stayman
+  * Leaping Michaels and Non-Leaping Michaels
+  * Major-Oriented Intervention after Forcing 1N Response
+  * Gladiator
