@@ -13,7 +13,8 @@
 * [Opening Bidding](partnership/opening.md)
 * After 1N
 * After 1M
-  * [Forcing 1N](partnership/forcing_1nt.md)
+  * [Forcing 1NT](partnership/forcing_1nt.md)
+  * [Two Over One](partnership/two-over-one.md)
   * [Jacoby 2NT](partnership/jacoby_2n.md)
   * [Bergen Raise](partnership/bergen_raise.md)
   * [Drury](partnership/drury.md)
