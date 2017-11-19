@@ -7,6 +7,7 @@
 * [General Leading](general/leading.md)
 * [General Signal](general/signal.md)
 * [General Double](general/double.md)
+* [Strategy for MP](general/mp.md)
 
 
 ## Partnership Bidding
