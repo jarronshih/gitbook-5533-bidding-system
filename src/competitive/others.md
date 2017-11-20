@@ -2,8 +2,8 @@
 {% bids %}
 P; (1!C) - P - (1!S) - ??
 Dbl  := T/O, usually 9 cards in two suits.
-1!N  := 5!H5!D
-2!C  := 4!H6!D
+1!N  := 5!H+5!D
+2!C  := 4!H+6!D
 2X   := NAT
 2!N  := 6-5 in two suits.
 {% endbids %}

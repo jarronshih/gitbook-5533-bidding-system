@@ -8,3 +8,11 @@ Take-out double.
 
 ## NAT
 Nature, showing long suit.
+
+
+## NF
+Not forcing
+
+
+## INV
+Invitation value

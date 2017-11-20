@@ -29,7 +29,7 @@ Dbl := 14+, partner can pass
 2!C := 10+, !H+any suit
 2!D := 10+, !S+any suit
 2M  := 6+M
-2!N := Very good hand, two touching suit 6-5, !S!H/!H!D/!D!C/!C!S
+2!N := Very good hand, two touching suit 6-5. !S+!H or !H+!D or !D+!C or !S+!C
 {% endbids %}
 
 
