@@ -12,15 +12,14 @@
 
 ## Partnership Bidding
 * [Opening Bidding](partnership/opening.md)
-* After 1N
-* After 1M
+* After 1N Opening
+* After 1M Opening
   * [Forcing 1NT](partnership/forcing_1nt.md)
   * [Two Over One](partnership/two-over-one.md)
   * [Jacoby 2NT](partnership/jacoby_2n.md)
   * [Bergen Raise](partnership/bergen_raise.md)
   * [Drury](partnership/drury.md)
-
-* [After 1m](partnership/1m.md)
+* [After 1m Opening](partnership/1m.md)
   * [18~19 Balance](partnership/1m_1X_2N.md)
 
 
@@ -38,8 +37,7 @@
 
 ## Others
 * [Testing](garage/testing.md)
-* Incomplete
-
+* Incompleted
   * Two-Way Puppet Check Back
   * Lebensohl
   * Frivolous Flag and Cue Bid
