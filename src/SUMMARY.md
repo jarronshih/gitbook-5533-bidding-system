@@ -20,7 +20,7 @@
   * [Bergen Raise](partnership/bergen_raise.md)
   * [Drury](partnership/drury.md)
 
-* After 1m
+* [After 1m](partnership/1m.md)
   * [18~19 Balance](partnership/1m_1X_2N.md)
 
 
@@ -30,6 +30,7 @@
 
 ## Defensive Bidding
 * [Against NT](defensive/vs-nt.md)
+* [Against Preempt](defensive/vs-pre.md)
 * [Michaels Cue-Bid and Unusual No-Trump](defensive/two-suit.md)
 * [Rubens Advance](defensive/rubens-advance.md)
 
@@ -38,7 +39,7 @@
 ## Others
 * [Testing](garage/testing.md)
 * Incomplete
-  * [Against Preempt](defensive/vs-pre.md)
+
   * Two-Way Puppet Check Back
   * Lebensohl
   * Frivolous Flag and Cue Bid
@@ -48,3 +49,4 @@
   * Leaping Michaels and Non-Leaping Michaels
   * Major-Oriented Intervention after Forcing 1N Response
   * Gladiator
+  * [Major Invitation sequence](partnership/major_invite.md)
