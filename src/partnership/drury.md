@@ -9,6 +9,6 @@ P - 1!S; ?
 2!S := 4~7, 3+!S
 2!N := S/O in m
 3X := fit showing
-3!N := spliter
+3!N := splinter
 4X := void
 {% endbids %}

@@ -12,24 +12,24 @@ For example: 10~12, 11~13, 12~14, 13~15, etc.
 ## Lionel
 {% bids %}
 (1!N) - ??
-Dbl := !S + any suit.
-2!C := !C + !H, 10+ HCP. (2x=NF, 3x=INV)
-2!D := !D + !H, 10+ HCP. (2x=NF, 3x=INV)
+Dbl := 10+, !S+any suit.
+2!C := 10+, !H+!C. (2x=NF, 3x=INV)
+2!D := 10+, !H+!C. (2x=NF, 3x=INV)
 2M  := 6+M. (2!N=Ogust, raise=constructive)
-2!N := Both minors.
+2!N := !D+!C, 11 cards in two suits.
 {% endbids %}
 
-After (1!N)-2M-2!N, overcaller should bid 3x with a weak two hand, and jump to game with a full opening hand.
+After `(1!N)-2M-2!N`, overcaller should bid 3x with a weak two hand, and jump to game with a full opening hand.
 
 
 ## Astro
 {% bids %}
 (1!N) - ??
-Dbl := 14+ HCP, partner can pass
-2!C := !H + any suit, 10+ HCP
-2!D := !S + any suit, 10+ HCP
+Dbl := 14+, partner can pass
+2!C := 10+, !H+any suit
+2!D := 10+, !S+any suit
 2M  := 6+M
-2!N := Very good hand, two touching suit 6-5, !S!H/!H!D/!D!C/!C!S
+2!N := Very good hand, two touching suit 6-5. !S+!H or !H+!D or !D+!C or !S+!C
 {% endbids %}
 
 

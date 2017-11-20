@@ -1,11 +1,18 @@
 ## Passed hand in 4th position
 {% bids %}
-P; (1!C) - P - (1!S) - ?
-Dbl  := T/O, usually 9 cards in two suit.
-1!N  := 5!D5!H
-2!C  := 6!D4!H
-2!D  := NAT
-2!H  := NAT
-2!S  := NAT
-2!N  := 65+
+P; (1!C) - P - (1!S) - ??
+Dbl  := T/O, usually 9 cards in two suits.
+1!N  := 5!H+5!D
+2!C  := 4!H+6!D
+2X   := NAT
+2!N  := 6-5 in two suits.
+{% endbids %}
+
+{% bids %}
+P; (1X) - P - (1Y) - ??
+Dbl  := T/O, usually 9 cards in two suits.
+1!N  := 5-5 in other two suits.
+2X   := 4-6 in other two suits, lower suit has 6 card and higher suit has 4.
+others   := NAT
+2!N  := 6-5 in two suits
 {% endbids %}
