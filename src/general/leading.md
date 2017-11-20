@@ -6,10 +6,21 @@ Against Suit Contract
 - 0135
 - Trump leads: count (low even, high odd, but preserve the highest spot card except to lead highest of equals)
 
-Against NT Contract
+Against No Trump Contract
 - 024th
 - Lead A or K
 - Honor leads: ace requests unblock or count signal; queen requests jack; highest equal from non-ace sequences and interior sequences
+
+### Table
+| Lead  | Vs. Suit | Vs. NT |
+| ----- | -------- | ------ |
+| King  | AK, Kx, KQx | STRONG: AKJTx, KQT9x, etc. |
+| Queen | QJx, Qx | KQx, KQxx, AQJ, QJx |
+| Jack  | KJT, JTx, Jx | QJxx, JTx |
+| T     | KT9, QT9, T9x, Tx | HJTx, JTxx, AQT9, T9x |
+| 9     | KJ9x, 9x | HT9x, T9xx, A98x, J98x, 9x, AKT9 |
+| Hi-X  | Hi from xx, 3rd from even | 8 from K98x, Q98x, MUD |
+| Lo-X  | Low from odd | 4th best |
 
 
 ## Later leading

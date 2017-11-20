@@ -1,4 +1,15 @@
 # Jacoby 2NT
+
+## Opener response
+{% bids %}
+1!S-2!N; ??
+3X   := Shortness.
+3!S  := Extra without shortness
+3!N  := Min without shortness
+4X   := 5-5 in two suit (?) range
+{% endbids %}
+
+
 ## After interrupted
 ### Interrupted by double
 {% bids %}
