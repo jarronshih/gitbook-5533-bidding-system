@@ -48,3 +48,4 @@
   * Major-Oriented Intervention after Forcing 1N Response
   * Gladiator
   * [Major Invitation sequence](partnership/major_invite.md)
+  * Good Bad 2NT
